@@ -1,0 +1,12 @@
+DEBUG   2021-12-30 13:27:41,516 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 13:27:41,766 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 13:27:41,781 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 13:27:41,863 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 13:27:41,918 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 13:27:41,959 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 13:28:55,162 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 13:28:55,282 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 13:28:55,329 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 13:28:55,470 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 13:28:55,509 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 13:28:55,578 [main] Hooks.class  - Driver closed
